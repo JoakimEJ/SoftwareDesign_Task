@@ -1,0 +1,11 @@
+C:\Users\Nik\Documents\SNAKE_RELEASE\SnakeOrder\bin\Debug\SnakeMess.exe
+C:\Users\Nik\Documents\SNAKE_RELEASE\SnakeOrder\bin\Debug\SnakeMess.pdb
+C:\Users\Nik\Documents\SNAKE_RELEASE\SnakeOrder\obj\x86\Debug\SnakeOrder.csprojResolveAssemblyReference.cache
+C:\Users\Nik\Documents\SNAKE_RELEASE\SnakeOrder\obj\x86\Debug\SnakeMess.exe
+C:\Users\Nik\Documents\SNAKE_RELEASE\SnakeOrder\obj\x86\Debug\SnakeMess.pdb
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\SnakeOrder\bin\Debug\SnakeMess.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\SnakeOrder\bin\Debug\SnakeMess.pdb
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\SnakeOrder\obj\x86\Debug\SnakeMess.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\SnakeOrder\obj\x86\Debug\SnakeMess.pdb
+D:\SKOLE2AAR\PG3300_SoftwareDesign\Innlevering1\SoftwareDesignRepository\SnakeOrder\obj\x86\Debug\SnakeMess.exe
+D:\SKOLE2AAR\PG3300_SoftwareDesign\Innlevering1\SoftwareDesignRepository\SnakeOrder\obj\x86\Debug\SnakeMess.pdb

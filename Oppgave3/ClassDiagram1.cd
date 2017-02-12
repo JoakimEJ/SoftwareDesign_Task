@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Oppgave3.Application">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Customer">
+    <Position X="16" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAACAAAkQgAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.CaramelCookie" Collapsed="true">
+    <Position X="9" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\CaramelCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.ChocolateCookie" Collapsed="true">
+    <Position X="14.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\ChocolateCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.CodCookie" Collapsed="true">
+    <Position X="17.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\CodCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.HashishBrownie" Collapsed="true">
+    <Position X="2" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\HashishBrownie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.PeanutCookie" Collapsed="true">
+    <Position X="5.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\PeanutCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.TurkeyCookie" Collapsed="true">
+    <Position X="10.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\TurkeyCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.UnicornCookie" Collapsed="true">
+    <Position X="16" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\UnicornCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.VanillaCookie" Collapsed="true">
+    <Position X="19.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BakeryProducts\VanillaCookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.AppleJuice" Collapsed="true">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\JuiceProducts\AppleJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.KiwiJuice" Collapsed="true">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\JuiceProducts\KiwiJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.OrangeJuice" Collapsed="true">
+    <Position X="12.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\JuiceProducts\OrangeJuice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Product">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Products\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Bakery">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Oppgave3.Vendor" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13" Y="5.25" />
+        <Point X="12.533" Y="5.25" />
+        <Point X="12.533" Y="5.688" />
+        <Point X="11" Y="5.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendors\Bakery\Bakery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.JuiceVendor">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendors\JuiceVendor\JuiceVendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Vendor">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAAAAABAIAAAAARAQAAFEAAAASAAAAAAAAA=</HashCode>
+      <FileName>Vendors\Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Vendors.Bakery.ListOfBakeryProducts">
+    <Position X="5.75" Y="4.5" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="Oppgave3.Vendors.Bakery.ListOfBakeryProducts.listOfProducts" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Vendors\Bakery\ListOfBakeryProducts.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendors\Bakery\ListOfBakeryProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oppgave3.Vendors.JuiceVendor.ListOfJuiceVendorProducts">
+    <Position X="5.75" Y="7" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="Oppgave3.Vendors.JuiceVendor.ListOfJuiceVendorProducts.listOfProducts" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Vendors\JuiceVendor\ListOfJuiceVendorProducts.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendors\JuiceVendor\ListOfJuiceVendorProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

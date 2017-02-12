@@ -1,0 +1,11 @@
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\REALEASE_oppg1_JEJ\Oppgave3\bin\Debug\Oppgave3.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\REALEASE_oppg1_JEJ\Oppgave3\bin\Debug\Oppgave3.pdb
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\REALEASE_oppg1_JEJ\Oppgave3\obj\Debug\Oppgave3.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\REALEASE_oppg1_JEJ\Oppgave3\obj\Debug\Oppgave3.pdb
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\REALEASE_oppg1_JEJ\Oppgave3\obj\Debug\Oppgave3.csprojResolveAssemblyReference.cache
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\Oppgave3\obj\Debug\Oppgave3.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\Oppgave3\obj\Debug\Oppgave3.pdb
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\Oppgave3\bin\Debug\Oppgave3.exe
+D:\SKOLE2ÅR\PG3300_SoftwareDesign\Innlevering1\FINALRELEASE\Oppgave3\bin\Debug\Oppgave3.pdb
+D:\SKOLE2AAR\PG3300_SoftwareDesign\Innlevering1\SoftwareDesignRepository\Oppgave3\obj\Debug\Oppgave3.exe
+D:\SKOLE2AAR\PG3300_SoftwareDesign\Innlevering1\SoftwareDesignRepository\Oppgave3\obj\Debug\Oppgave3.pdb
